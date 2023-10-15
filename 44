@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
