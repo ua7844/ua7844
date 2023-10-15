@@ -10,7 +10,7 @@ https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0,TRT 2 
-http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
+https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
