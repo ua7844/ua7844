@@ -42,8 +42,8 @@ https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye", Eurosport 2 
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye", bluTV Play 2 
-https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
+#EXTINF:0 tvg-id="atv.tr" group-title="Türkiye", atv 
+https://pro35.canlitvplayer.com/gineu8.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="KanalD.tr" group-title="Türkiye",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
