@@ -36,8 +36,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTturk.tr" group-title="Türkiye",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye", Eurosport 1 
-https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
+#EXTINF:0 tvg-id="tv8_5.tr" group-title="Türkiye", TV 8,5 
+https://bozztv.com/inim03/live1/tv8_5/chunks.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Eurosport 2 
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
