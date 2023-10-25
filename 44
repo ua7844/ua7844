@@ -81,8 +81,8 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Türkiye",A Haber
 https://bozztv.com/inim03/live1/ahaber/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AHaber.tr" group-title="Türkiye",A Haber HD+
-https://bozztv.com/inim03/live1/ahaber/chunks.m3u8
+#EXTINF:-1 tvg-id="tv100.tr" group-title="Türkiye",TV 100
+https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8
 
 #EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Türkiye",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
@@ -120,14 +120,14 @@ https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="akit.tr" group-title="Türkiye",akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
-#EXTINF:0 tvg-id="DiscoveryDMAX.tr" group-title="Türkiye",DMAX+ 
+#EXTINF:0 tvg-id="DiscoveryDMAX.tr" group-title="Türkiye",DMAX 
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:0 tvg-id="UcankusTV.tr" group-title="Türkiye",Uçan Kuş+
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+https://ucankus-live.daioncnd.net/ucankus/ucankus.m3u8
 
 #EXTINF:0 tvg-id="TVNet.tr" group-title="Türkiye",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
