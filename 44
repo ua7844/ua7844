@@ -40,7 +40,7 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://bozztv.com/inim03/live1/tv8_5/chunks.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Eurosport 2 
-https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
+https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
 
 #EXTINF:0 tvg-id="atv.tr" group-title="Türkiye", atv 
 https://pro35.canlitvplayer.com/gineu8.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
@@ -58,7 +58,7 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Show Türk
-https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
 
 #EXTINF:0 tvg-id="A2.tr" group-title="Türkiye", A2 HD+ 
 https://pro35.canlitvplayer.com/streamer1.ruslanatv.ru/turkey/a2tv_2023/chunks.m3u8
@@ -66,19 +66,19 @@ https://pro35.canlitvplayer.com/streamer1.ruslanatv.ru/turkey/a2tv_2023/chunks.m
 #EXTINF:0 tvg-id="Fox.tr" group-title="Türkiye",FOX
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
-#EXTINF:0 tvg-id="TV2.tr" group-title="Türkiye",teve 2+ 
+#EXTINF:0 tvg-id="TV2.tr" group-title="Türkiye",teve 2 
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye",Bengütürk+ 
+#EXTINF:0 tvg-id="" group-title="Türkiye",Bengütürk 
 https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 
-#EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV+
+#EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Türkiye",FLASH TV+
+#EXTINF:-1 tvg-id="" group-title="Türkiye",FLASH TV
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Türkiye",A Spor HD+
+#EXTINF:-1 tvg-id="" group-title="Türkiye",A Haber
 https://bozztv.com/inim03/live1/ahaber/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="Türkiye",A Haber HD+
@@ -93,25 +93,25 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 tvg-id="24.tr" group-title="Türkiye",24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="UlkeTV.tr" group-title="Türkiye",Ülke TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:0 tvg-id="UlkeTV.tr" group-title="Türkiye",Ülke TV 
+http://gineu9.bozztv.com/gin-dvrfl05/gt-ulketv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="CNNTURK.tr" group-title="Türkiye",CNN türk 
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV+
+#EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV 
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
 #EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Türkiye",Bloomberg HT
-http://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Türkiye",Habertürk+
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Türkiye",Habertürk
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Tele 1
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye",Haberglobal+  
+#EXTINF:0 tvg-id="" group-title="Türkiye",Haberglobal  
 https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",HABER 61 TV
@@ -121,10 +121,10 @@ https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:0 tvg-id="DiscoveryDMAX.tr" group-title="Türkiye",DMAX+ 
-https://dogus.daioncdn.net/dmax/dmax.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Sports TV
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:0 tvg-id="UcankusTV.tr" group-title="Türkiye",Uçan Kuş+
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
