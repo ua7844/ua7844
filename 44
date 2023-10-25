@@ -291,6 +291,23 @@ https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kay TV 
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kent Türk TV 
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Konya Olay Tv 
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Life TV 
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Mavi Karadeniz TV 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Mercan TV 
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Olay Türk TV 
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
