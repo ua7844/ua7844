@@ -309,6 +309,39 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Olay Türk TV 
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", ON6TV 
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Sat 7 Türk 
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Sun RTV 
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Tatlıses TV 
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Tivi 6 
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", TJK TV 
+https://live.artidijitalmedya.com/artidijital_tjktv/tjktv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", TON Tv 
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Trakya Türk TV 
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", TV 41 
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", TVA 
+https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Urfafanatik TV 
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8
+
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
