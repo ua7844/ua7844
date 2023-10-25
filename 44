@@ -126,8 +126,8 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
-#EXTINF:0 tvg-id="UcankusTV.tr" group-title="Türkiye",Uçan Kuş+
-https://ucankus-live.daioncnd.net/ucankus/ucankus.m3u8
+#EXTINF:0 tvg-id="ciftcitv.tr" group-title="Türkiye",Çiftci TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 
 #EXTINF:0 tvg-id="TVNet.tr" group-title="Türkiye",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
@@ -187,7 +187,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chucklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",GRT Gaziantep
-http://yerelmedya.tv:1935/grt/_definst_/bant1/chunklist.m3u8
+https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",IBB TV
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
@@ -198,8 +198,8 @@ http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Radyo Kulüp
 http://win1.yayin.com.tr/radyokulup/radyokulup/media.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",TEMPO TV++++
-http://waw1.artiyerelmedya.net:1935/tempotv/bant1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Türkiye",TEMPO TV 
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TV 52
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
