@@ -213,8 +213,84 @@ http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",CLARITY 4K 
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",BIZ TV
-https://st.biztv.uz/hls/stream_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Türkiye",aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Anadolu Net TV 
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", As Tv 
+https://live.artidijitalmedya.com/artidijital_astv/astv1/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Bir TV 
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye",BRTV 
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye",Cine 1 
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Deha TV 
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Deniz Postası TV 
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Dim TV 
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Diyar TV 
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", EkolTV 
+https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Es TV 
+https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", ETV 
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", GRT 
+https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Güney TV 
+https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Hunat TV 
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 15 
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 23 
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 26 
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 3 
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 58 
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 68 
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Fırat 
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal V 
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Z 
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kay TV 
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
+
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -224,7 +300,6 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Almanya",NDR SH 
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-
 
 #EXTINF:0 tvg-id="One.de" group-title="Almanya",ONE
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
