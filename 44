@@ -148,7 +148,7 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:0 tvg-id="HalkTV.tr" group-title="Türkiye",SZC
-https://mn-nl.mncdn.com/blutv_szctv_dvr/live.m3u8
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 
 #EXTINF:0 tvg-id="CNBC-E.tr" group-title="Türkiye",TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
