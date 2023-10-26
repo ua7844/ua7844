@@ -222,6 +222,9 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Anadolu Net TV 
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Angara TV
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", As Tv 
 https://live.artidijitalmedya.com/artidijital_astv/astv1/chunks.m3u8
 
@@ -245,6 +248,9 @@ https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Diyar TV 
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Dost TV 
+https://dost.stream.emsal.im/tv/live.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", EkolTV 
 https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
@@ -285,6 +291,9 @@ https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Fırat 
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Samsun
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal V 
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
 
@@ -314,6 +323,9 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ON6TV 
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Rizetürk 
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sat 7 Türk 
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
