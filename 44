@@ -273,6 +273,9 @@ https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Hunat TV 
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", ilk TV 
+https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 15 
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8
 
