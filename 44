@@ -192,6 +192,9 @@ https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",IBB TV
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kaçkar TV 
+https://kackartv.ozelip.com:3898/hybrid/play.m3u8
+
 #EXTINF:0 tvg-id="" group-title="Türkiye",KANAL 3
 http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
 
