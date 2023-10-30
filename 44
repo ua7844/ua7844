@@ -108,7 +108,7 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 tvg-id="HABERTURK.tr" group-title="Türkiye",Habertürk
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye",Tele 1
+#EXTINF:0 tvg-id="tele1.tr" group-title="Türkiye",Tele 1
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Haberglobal  
@@ -164,9 +164,6 @@ http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ALTAS TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",Can TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ÇAY TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
