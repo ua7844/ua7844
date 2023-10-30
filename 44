@@ -120,7 +120,7 @@ https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="akit.tr" group-title="Türkiye",akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
-#EXTINF:0 tvg-id="DiscoveryDMAX.tr" group-title="Türkiye",DMAX 
+#EXTINF:0 tvg-id="DMAX.tr" group-title="Türkiye",DMAX 
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Sports TV
@@ -279,7 +279,7 @@ https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 26 
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 3 
+#EXTINF:0 tvg-id="kanal3.tr" group-title="Türkiye", Kanal 3 
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 58 
@@ -309,7 +309,7 @@ https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Konya Olay Tv 
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Life TV 
+#EXTINF:0 tvg-id="livetv.tr" group-title="Türkiye", Life TV 
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mavi Karadeniz TV 
