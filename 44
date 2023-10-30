@@ -354,6 +354,9 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", TVA 
 https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Ulusal Kanal 
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Urfafanatik TV 
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8
 
