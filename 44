@@ -94,7 +94,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="UlkeTV.tr" group-title="Türkiye",Ülke TV 
-http://gineu9.bozztv.com/gin-dvrfl05/gt-ulketv/tracks-v1a1/mono.m3u8
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:0 tvg-id="CNNTURK.tr" group-title="Türkiye",CNN türk 
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
