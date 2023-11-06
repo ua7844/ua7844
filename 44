@@ -159,7 +159,7 @@ http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:0 tvg-id="PMC.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Türkiye",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",a Spor  
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Türkiye",a Spor  
 https://bozztv.com/inim03/live1/aspor/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Alanya Posta TV
