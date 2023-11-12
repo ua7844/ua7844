@@ -232,7 +232,7 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Camia TV 
-https://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8
+https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Can TV 
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
