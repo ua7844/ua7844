@@ -4,7 +4,7 @@
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
-https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Türkiye",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
