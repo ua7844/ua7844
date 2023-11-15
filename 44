@@ -13,7 +13,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-id="Kanal7.tr" group-title="Türkiye",Kanal 7 
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -34,7 +34,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-id="TRTturk.tr" group-title="Türkiye",TRT TÜRK
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8.m3u8
+https://tv-trtturk.medya.trt.com.tr/master.m3u8.m3u8
 
 #EXTINF:0 tvg-id="tv8_5.tr" group-title="Türkiye", TV 8,5 
 https://bozztv.com/inim03/live1/tv8_5/chunks.m3u8
