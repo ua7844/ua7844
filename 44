@@ -34,7 +34,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-id="TRTturk.tr" group-title="Türkiye",TRT TÜRK
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-id="tv8_5.tr" group-title="Türkiye", TV 8,5 
 https://bozztv.com/inim03/live1/tv8_5/chunks.m3u8
