@@ -312,6 +312,9 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kent Türk TV 
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", KRT 
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Konya Olay Tv 
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
