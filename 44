@@ -237,6 +237,9 @@ https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Can TV 
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Cartoon Network 
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Cine 1 
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
