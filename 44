@@ -91,7 +91,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:0 tvg-id="24.tr" group-title="Türkiye",24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:0 tvg-id="UlkeTV.tr" group-title="Türkiye",Ülke TV 
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
