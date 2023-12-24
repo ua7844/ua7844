@@ -60,7 +60,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye",Show Türk
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye", TRT Diyanrt Çocuk 
+#EXTINF:0 tvg-id="" group-title="Türkiye", TRT Diyanet Çocuk 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-id="Fox.tr" group-title="Türkiye",FOX
