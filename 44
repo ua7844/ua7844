@@ -37,7 +37,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-id="tv8_5.tr" group-title="Türkiye", TV 8,5 
-https://bozztv.com/inim03/live1/tv8_5/chunks.m3u8
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Eurosport 2 
 https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
