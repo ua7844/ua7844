@@ -85,7 +85,7 @@ https://bozztv.com/inim03/live1/ahaber/chunks.m3u8
 https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8
 
 #EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Türkiye",TGRT Haber
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
 #EXTINF:0 tvg-id="360.tr" group-title="Türkiye",360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
