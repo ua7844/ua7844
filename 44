@@ -124,7 +124,7 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:0 tvg-id="ciftcitv.tr" group-title="Türkiye",Çiftci TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
