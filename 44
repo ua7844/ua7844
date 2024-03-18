@@ -324,7 +324,7 @@ https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Konya Olay Tv 
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
-#EXTINF:0 tvg-id="livetv.tr" group-title="Türkiye", Life TV 
+#EXTINF:0 tvg-id="live.tr" group-title="Türkiye", Life TV 
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mavi Karadeniz TV 
