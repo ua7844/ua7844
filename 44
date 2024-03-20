@@ -9,7 +9,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Türkiye",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0,TRT 22
+#EXTINF:0,TRT 2
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
@@ -136,10 +136,10 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Vuslat TV
-https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ER TV 
-https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
 
 #EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Türkiye",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
