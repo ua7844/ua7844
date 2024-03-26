@@ -339,6 +339,9 @@ https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ON6TV 
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
 
+#EXTINF:0, Power Türk 
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Rizetürk 
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
