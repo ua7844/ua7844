@@ -436,6 +436,9 @@ https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 #EXTINF:0 tvg-id="AutoMotorSport.de" group-title="Almanya",Auto Motor Sport
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
+#EXTINF:0 tvg-id="" group-title="Almanya",Bild TV 
+https://bild.personalstream.tv/v1/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Almanya",auto Bild
 https://auto-bild.personalstream.tv/v1/autobildde/master.m3u8
 
