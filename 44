@@ -42,7 +42,8 @@ https://playhdnew5.buzz/yayintv85.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
 https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 
-#EXTINF:0 tvg-id="atv.tr" group-title="Türkiye", ATV HD 
+#EXTINF:0 group-title="Türkiye" tvg-id="atv-hd-tr" ,ATV HD TR
+#EXTGRP:Türkiye
 http://gineu10.bozztv.com/gin-trn09/gin-atvv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="KanalD.tr" group-title="Türkiye",Kanal D
