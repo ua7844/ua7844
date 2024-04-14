@@ -427,6 +427,9 @@ https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:0 tvg-id="WDR.de" group-title="Almanya",WDR
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 
+#EXTINF:0 tvg-id="tagesschau.de" group-title="Almanya",Tagesschau 
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
+
 #EXTINF:0 tvg-id="" group-title="Almanya",Deutsche Welle 
 https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 
