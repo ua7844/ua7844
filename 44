@@ -296,7 +296,8 @@ https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 26 
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 
-#EXTINF:0 tvg-id="kanal3.tr" group-title="Türkiye", Kanal 3 
+#EXTINF:0 group-title="Türkiye" tvg-id="KANAL3.tr" ,KANAL 3 
+#EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 58 
