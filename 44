@@ -235,7 +235,7 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Camia TV 
 https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Can TV 
+#EXTINF:0 tvg-id="cartoonnetwork.tr" group-title="Türkiye", Can TV 
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Cartoon Network 
@@ -271,7 +271,7 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ETV 
 https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 
-#EXTINF:0 group-title="Türkiye" tvg-id="ftv.tr" ,FTV 
+#EXTINF:0 group-title="Türkiye" tvg-id="fortuna.tr" ,FTV 
 #EXTGRP:Türkiye
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 
