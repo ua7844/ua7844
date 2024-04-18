@@ -271,6 +271,10 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ETV 
 https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 
+#EXTINF:0 group-title="Türkiye" tvg-id="ftv.tr" ,FTV 
+#EXTGRP:Türkiye
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", GRT 
 https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
 
