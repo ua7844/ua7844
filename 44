@@ -50,7 +50,7 @@ http://gineu10.bozztv.com/gin-trn09/gin-atvv/tracks-v1a1/mono.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:0 tvg-id="Startv.tr" group-title="Türkiye",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Kanal Avrupa 
 https://api-tv27.yayin.com.tr/kanalavrupa/tracks-v3a1/rewind-3600.m3u8?DVR
