@@ -115,8 +115,8 @@ https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye",Haberglobal  
 https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",HABER 61 TV
-https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Türkiye",HABER 61 TV 
+https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="akit.tr" group-title="Türkiye",akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
