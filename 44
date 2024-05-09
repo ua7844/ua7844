@@ -49,8 +49,8 @@ http://gineu10.bozztv.com/gin-trn09/gin-atvv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="KanalD.tr" group-title="Türkiye",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye",Euro Star
-https://gineu9.bozztv.com/gin-trn10/gt-eurostar/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" group-title="Türkiye",Star TV 
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Kanal Avrupa 
 https://api-tv27.yayin.com.tr/kanalavrupa/tracks-v3a1/rewind-3600.m3u8?DVR
