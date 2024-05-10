@@ -116,7 +116,7 @@ https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8?checkedby:ua7844
 https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",HABER 61 TV 
-https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/chunklist_w738676590_b1796000.m3u8?checkedby:ua7844 
+http://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="akit.tr" group-title="Türkiye",akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:ua7844 
@@ -140,7 +140,7 @@ https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8?checkedby:ua7844
 https://vuslattv.blutv.com/blutv_vuslattv2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ER TV 
-https://ertv.blutv.com/blutv_ertv2/live.m3u8?checkedby:ua7844 
+http://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Türkiye",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?checkedby:ua7844 
