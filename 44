@@ -1,394 +1,394 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Türkiye",TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
 #EXTINF:0,TRT 2
-https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
+https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="Kanal7.tr" group-title="Türkiye",Kanal 7 
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Kanal 7 Avrupa 
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
-http://gineu10.bozztv.com/gin-36bay4/gt-tv8tv-3/index.m3u8
+http://gineu10.bozztv.com/gin-36bay4/gt-tv8tv-3/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
-https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTKurdi.tr" group-title="Türkiye",TRT KURDI
-https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Türkiye",TRT MÜZIK
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTturk.tr" group-title="Türkiye",TRT TÜRK
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="tv8_5.tr" group-title="Türkiye", TV 8,5 
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
-https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
+https://canli.haber365.com.tr/tr/tgrteu/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 group-title="Türkiye" tvg-id="atv-hd.tr" ,ATV 
 #EXTGRP:Türkiye
-http://gineu10.bozztv.com/gin-trn09/gin-atvv/tracks-v1a1/mono.m3u8
+http://gineu10.bozztv.com/gin-trn09/gin-atvv/tracks-v1a1/mono.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="KanalD.tr" group-title="Türkiye",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="star.tr" group-title="Türkiye" ,Star TV 
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Kanal Avrupa 
-https://api-tv27.yayin.com.tr/kanalavrupa/tracks-v3a1/rewind-3600.m3u8?DVR
+https://api-tv27.yayin.com.tr/kanalavrupa/tracks-v3a1/rewind-3600.m3u8?checkedby:ua7844 ?DVR
 
 #EXTINF:0 tvg-id="ShowTV.tr" group-title="Türkiye",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="showturk.tr" group-title="Türkiye",Show Türk
-https://showturk.blutv.com/blutv_showturk2/live.m3u8
+https://showturk.blutv.com/blutv_showturk2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TRT Diyanet Çocuk 
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="Fox.tr" group-title="Türkiye",FOX
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TV2.tr" group-title="Türkiye",teve 2 
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Bengütürk 
-http://gineu9.bozztv.com/gin-trn10/gt-benguturk/tracks-v1a1/mono.m3u8
+http://gineu9.bozztv.com/gin-trn10/gt-benguturk/tracks-v1a1/mono.m3u8?checkedby:ua7844 
 
 #EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?checkedby:ua7844 
 
 #EXTINF:-1 tvg-id="" group-title="Türkiye",FLASH TV
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8?checkedby:ua7844 
 
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="Türkiye",A Haber HD 
-https://bozztv.com/inim03/live1/ahaber/chunks.m3u8
+https://bozztv.com/inim03/live1/ahaber/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:-1 tvg-id="tv100.tr" group-title="Türkiye",TV 100
-https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8
+https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Türkiye",TGRT Haber
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="360.tr" group-title="Türkiye",360 HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="24.tr" group-title="Türkiye",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="UlkeTV.tr" group-title="Türkiye",Ülke TV 
-https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+https://ulketv.blutv.com/blutv_ulketv2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="CNNTURK.tr" group-title="Türkiye",CNN türk 
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV 
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Türkiye",Bloomberg HT
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="HABERTURK.tr" group-title="Türkiye",Habertürk
-https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 group-title="Türkiye" tvg-id="tele1.tr" ,Tele 1
-https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Haberglobal  
-https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
+https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",HABER 61 TV 
-https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/chunklist_w738676590_b1796000.m3u8
+https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/chunklist_w738676590_b1796000.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="akit.tr" group-title="Türkiye",akit TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="DMAX.tr" group-title="Türkiye",DMAX 
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ciftcitv.tr" group-title="Türkiye",Çiftci TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TVNet.tr" group-title="Türkiye",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ekoturk.tr" group-title="Türkiye",Ekotürk TV
-https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
+https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Vuslat TV
-https://vuslattv.blutv.com/blutv_vuslattv2/live.m3u8
+https://vuslattv.blutv.com/blutv_vuslattv2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ER TV 
-https://ertv.blutv.com/blutv_ertv2/live.m3u8
+https://ertv.blutv.com/blutv_ertv2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Türkiye",DIYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="HalkTV.tr" group-title="Türkiye",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="szc.tr" group-title="Türkiye",SZC
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="tlc.tr" group-title="Türkiye",TLC
-https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Lalegül Tv
-http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="PMC.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Türkiye",PMC
-https://hls.pmchd.live/hls/stream.m3u8
+https://hls.pmchd.live/hls/stream.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ASpor.tr" group-title="Türkiye",a Spor  
-https://bozztv.com/inim03/live1/aspor/chunks.m3u8
+https://bozztv.com/inim03/live1/aspor/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Alanya Posta TV
-http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ALTAS TV
-http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8
+http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ÇAY TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
+https://dost.stream.emsal.im/tv/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ERT Şah TV Erzincan
-http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Erzurum Web TV
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Fortuna TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="Türkiye",GS TV 
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chucklist.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chucklist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",GRT Gaziantep
-https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",IBB TV
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kaçkar TV 
-https://kackartv.ozelip.com:3898/hybrid/play.m3u8
+https://kackartv.ozelip.com:3898/hybrid/play.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Radyo Kulüp
-http://win1.yayin.com.tr/radyokulup/radyokulup/media.m3u8
+http://win1.yayin.com.tr/radyokulup/radyokulup/media.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TEMPO TV 
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TV 52
-http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TV EM
-http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1430509571.m3u8
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1430509571.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TV 41 
-http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",CLARITY 4K 
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",aksu TV
-https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Anadolu Net TV 
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Angara TV
-https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist.m3u8
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", As Tv 
-https://live.artidijitalmedya.com/artidijital_astv/astv1/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_astv/astv1/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Bir TV 
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",BRTV 
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Camia TV 
-https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8
+https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="cartoonnetwork.tr" group-title="Türkiye", Can TV 
-https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Cartoon Network 
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Cartoonnito 
-https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Cine 1 
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Deha TV 
-https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Deniz Postası TV 
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Dim TV 
-https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Diyar TV 
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Dost TV 
-https://dost.stream.emsal.im/tv/live.m3u8
+https://dost.stream.emsal.im/tv/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", EkolTV 
-https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Es TV 
-https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ETV 
-https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 group-title="Türkiye" tvg-id="fortuna.tr" ,FTV 
 #EXTGRP:Türkiye
-https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", GRT 
-https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Güney TV 
-https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
+https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Hunat TV 
-https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ilk TV 
-https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/chunklist.m3u8
+https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/chunklist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 15 
-https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 23 
-https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 26 
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 group-title="Türkiye" tvg-id="KANAL3.tr" ,KANAL 3 
 #EXTGRP:Türkiye
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 58 
-https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 68 
-https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Fırat 
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Samsun
-https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal V 
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Z 
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kay TV 
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kent Türk TV 
-https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", KRT 
-https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Konya Olay Tv 
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="live.tr" group-title="Türkiye", Life TV 
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mavi Karadeniz TV 
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mercan TV 
-https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Olay Türk TV 
-https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ON6TV 
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Power Türk Slow 
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Power Türk 
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Rizetürk 
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sat 7 Türk 
-https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sun RTV 
-http://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8?checkedby:ua7844
+http://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8?checkedby:ua7844 ?checkedby:ua7844
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Tatlıses TV  
-http://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8?checkedby:ua7844
+http://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8?checkedby:ua7844 ?checkedby:ua7844
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Tivi 6 
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", TON Tv 
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Trakya Türk TV 
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", TV 41 
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", TVA 
-https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Ulusal Kanal 
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Urfafanatik TV 
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8
+http://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 1 
-http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
+http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv1/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 2 
-http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
+http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv2/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
