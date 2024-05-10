@@ -53,7 +53,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:ua7844
 https://dogus-live.daioncdn.net/startv/startv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Kanal Avrupa 
-https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8?checkedby:ua7844
+http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8?checkedby:ua7844
 
 #EXTINF:0 tvg-id="ShowTV.tr" group-title="Türkiye",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8?checkedby:ua7844 
