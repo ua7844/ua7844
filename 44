@@ -211,8 +211,8 @@ http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1430509571.m3u8?checkedby:ua78
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TV 41 
 http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8?checkedby:ua7844 
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",CLARITY 4K 
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8?checkedby:ua7844 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye",Love Nature 4K 
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:ua7844
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",aksu TV
 http://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8?checkedby:ua7844 
@@ -233,7 +233,7 @@ http://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8?checkedby:u
 http://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Camia TV 
-https://camiatv-live.ercdn.net/camiatv/camiatv.m3u8?checkedby:ua7844 
+https://camiatv-live.daioncdn.net/camiatv/camiatv.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="cartoonnetwork.tr" group-title="Türkiye", Can TV 
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8?checkedby:ua7844 
@@ -272,7 +272,6 @@ http://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8?checkedby:ua7
 http://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 group-title="Türkiye" tvg-id="fortuna.tr" ,FTV 
-#EXTGRP:Türkiye
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", GRT 
@@ -310,7 +309,7 @@ http://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8?checked
 http://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Samsun
-https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8?checkedby:ua7844 
+http://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal V 
 http://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8?checkedby:ua7844 
