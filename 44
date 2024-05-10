@@ -361,7 +361,7 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Tatlıses TV 
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8?checkedby:ua7844
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Tivi 6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
