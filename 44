@@ -9,7 +9,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844
 #EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Türkiye",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
 
-#EXTINF:0,TRT 2
+#EXTINF:0 tvg-id="TRT2.tr" group-title="Türkiye",TRT 2
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
