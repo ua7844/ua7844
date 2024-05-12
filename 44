@@ -242,7 +242,7 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8?checkedby:ua7844
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Cartoonnito 
-https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8?checkedby:ua7844 
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/chunklist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Cine 1 
 http://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8?checkedby:ua7844 
