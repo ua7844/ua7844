@@ -338,6 +338,9 @@ http://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8?checkedby
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mavi Karadeniz TV 
 http://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?checkedby:ua7844 
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye",Meclis TV 
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mercan TV 
 http://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8?checkedby:ua7844 
 
