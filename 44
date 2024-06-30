@@ -71,7 +71,7 @@ https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8?checkedby:ua7844
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Bengütürk 
-http://gineu9.bozztv.com/gin-trn10/gt-benguturk/tracks-v1a1/mono.m3u8?checkedby:ua7844 
+http://bozztv.com/gin-trn10/gt-benguturk/tracks-v1a1/mono.m3u8?checkedby:ua7844 
 
 #EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?checkedby:ua7844 
@@ -98,7 +98,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:ua7844
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="CNNTURK.tr" group-title="Türkiye",CNN türk 
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8?checkedby:ua7844 
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturk/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV 
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8?checkedby:ua7844 
