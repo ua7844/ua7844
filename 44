@@ -395,6 +395,9 @@ http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv1/playlist.m3u8?checkedby:ua784
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 2 
 http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv2/playlist.m3u8?checkedby:ua7844 
 
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 yedek 
+https://tv-trt1-dai.medya.trt.com.tr/master_1080p.m3u8
+
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
