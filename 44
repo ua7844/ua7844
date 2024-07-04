@@ -182,7 +182,7 @@ http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8?checkedby:ua7844
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Fil TV 
-https://live.filbox.com.tr/filtv/index.m3u8?checkedby:ua7844
+http://live.filbox.com.tr/filtv/index.m3u8?checkedby:ua7844
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Fortuna TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:ua7844 
