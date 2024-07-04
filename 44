@@ -59,7 +59,7 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8?checkedby:
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="showturk.tr" group-title="Türkiye",Show Türk
-http://bozztv.com/gin-dvrfl05/gin-showtvturk/index.m3u8?checkedby:ua7844 
+http://bozztv.com/gin-dvrfl05/gin-showtvturk/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TRT Diyanet Çocuk 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8?checkedby:ua7844 
