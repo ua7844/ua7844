@@ -44,7 +44,7 @@ http://bozztv.com/gin-dvrfl05/gin-tgrteu/index.m3u8?checkedby:ua7844
 
 #EXTINF:0 group-title="Türkiye" tvg-id="atv-hd.tr" ,ATV 
 #EXTGRP:Türkiye
-http://gineu10.bozztv.com/gin-trn09/gin-atvv/tracks-v1a1/mono.m3u8?checkedby:ua7844 
+http://bozztv.com/gin-trn09/gin-atvv/index.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="KanalD.tr" group-title="Türkiye",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:ua7844 
