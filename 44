@@ -40,7 +40,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
-http://bozztv.com/gin-dvrfl05/gin-tgrteu/index.m3u8?checkedby:ua7844 
+http://bozztv.com/gin-dvrfl05/gin-tgrteu/index.m3u8
 
 #EXTINF:0 group-title="Türkiye" tvg-id="atv-hd.tr" ,ATV 
 #EXTGRP:Türkiye
