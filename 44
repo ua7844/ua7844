@@ -393,7 +393,7 @@ http://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8
 http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv1/playlist.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 2 
-http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv2/playlist.m3u8?checkedby:ua7844 
+http://bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 yedek 
 https://tv-trt1-dai.medya.trt.com.tr/master_1080p.m3u8
