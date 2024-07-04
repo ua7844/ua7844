@@ -65,7 +65,7 @@ http://bozztv.com/gin-dvrfl05/gin-showtvturk/index.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="Fox.tr" group-title="Türkiye",FOX
-https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8?checkedby:ua7844 
+https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8 
 
 #EXTINF:0 tvg-id="TV2.tr" group-title="Türkiye",teve 2 
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8?checkedby:ua7844 
