@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-https://d1u68oyra9spme.cloudfront.net/master_4.m3u8?checkedby:ua7844 
+https://bozztv.com/gin-dvrfl05/gin-trt1tv/tracks-v1a1/mono.m3u8?checkedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8?checkedby:ua7844 
@@ -394,9 +394,6 @@ http://bozztv.com/gin-trn09/gt-yesilcam-tv1/playlist.m3u8?checkedby:ua7844
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 2 
 http://bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8?checkedby:ua7844 
-
-#EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 yedek 
-https://tv-trt1-dai.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
