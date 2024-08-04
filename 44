@@ -10,7 +10,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
 #EXTINF:0 tvg-id="TRT2.tr" group-title="Türkiye",TRT 2
-https://bozztv.com/gin-36bay3/gt-trt2/index.m3u8 
+https://bozztv.com/gin-36bay3/gt-trt2/index.m3u8?chekedby:ua7844 
 
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8 
