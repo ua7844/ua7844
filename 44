@@ -18,8 +18,8 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="Kanal7.tr" group-title="Türkiye",Kanal 7 
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8 
 
-#EXTINF:0 tvg-id="" group-title="Türkiye",Kanal 7 Avrupa 
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
+#EXTINF:0 tvg-id="" group-title="Türkiye",a2 
+https://bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
 https://bozztv.com/gin-36bay4/gt-tv8tv-3/index.m3u8 
@@ -155,7 +155,7 @@ https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Lalegül Tv
-http://lalegultv.netmedya.net/hls/lalegultv.m3u8 
+https://lbl.netmedya.net/hls/lalegultv.m3u8 
 
 #EXTINF:0 tvg-id="PMC.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Türkiye",PMC
 https://hls.pmchd.live/hls/stream.m3u8 
