@@ -482,5 +482,14 @@ https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
 #EXTINF:0 tvg-id="" group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 https://oeins.de/live/studio.m3u8
 
+#EXTINF:0 tvg-id="" group-title="TEST",TRT Spor 
+https://bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="" group-title="TEST",TRT Spor 2 
 https://bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" group-title="TEST",Eurosport 
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" group-title="TEST",Eurosport 2 
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
