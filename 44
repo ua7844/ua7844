@@ -64,8 +64,8 @@ http://bozztv.com/dvrfl05/gin-showtvturk/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye", TRT Diyanet Çocuk 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8 
 
-#EXTINF:0 tvg-id="Fox.tr" group-title="Türkiye",NOW TV 
-https://bozztv.com/trn09/gin-turkfoxtv/index.m3u8
+#EXTINF:0 tvg-id="Fox.tr" group-title="Türkiye",NOW TV. 
+https://yayin8.canlitv.day/livetv/foxtv.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="TV2.tr" group-title="Türkiye",teve 2 
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8 
