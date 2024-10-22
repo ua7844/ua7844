@@ -22,7 +22,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://bozztv.com/dvrfl05/gin-atva2/index.m3u8 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
-https://bozztv.com/36bay4/gt-tv8tv-3/index.m3u8 
+https://bozztv.com/36bay4/gt-tv8tv-3/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
@@ -37,14 +37,14 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
  https://tv-trtturk.medya.trt.com.tr/master_720.m3u8 
 
 #EXTINF:0 tvg-id="tv8_5.tr" group-title="Türkiye", TV 8.5 
-https://bozztv.com/dvrfl05/gin-sekizbucuk/tracks-v1a1/mono.m3u8 
+https://bozztv.com/36bay4/gt-tvsekizbucuk/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
-http://bozztv.com/dvrfl05/gin-tgrteu/index.m3u8
+https://bozztv.com/dvrfl05/gin-tgrteu/index.m3u8
 
 #EXTINF:0 group-title="Türkiye" tvg-id="atv-hd.tr" ,ATV 
 #EXTGRP:Türkiye
-http://bozztv.com/trn09/gin-atvv/index.m3u8 
+https://bozztv.com/trn09/gin-atvv/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
