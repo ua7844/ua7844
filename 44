@@ -396,7 +396,7 @@ http://bozztv.com/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
 http://bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 yedek 
-https://bozztv.com/gin-dvrfl05/gin-trt1tv/tracks-v1a1/mono.m3u8
+https://bozztv.com/dvrfl05/gin-trt1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
