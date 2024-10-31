@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://rpn3.bozztv.com/gin-dvrfl05/gin-trt1tv/index.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8 
@@ -22,7 +22,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://rpn3.bozztv.com/dvrfl05/gin-atva2/index.m3u8 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8 
+https://rpn3.bozztv.com/gin-36bay4/gt-tv8tv-3/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
@@ -37,7 +37,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
  https://tv-trtturk.medya.trt.com.tr/master_720.m3u8 
 
 #EXTINF:0 tvg-id="tv8_5.tr" group-title="Türkiye", TV 8.5 
-https://rpn3.bozztv.com/36bay4/gt-tvsekizbucuk/tracks-v1a1/mono.m3u8 
+https://rpn3.bozztv.com/gin-dvrfl05/gin-sekizbucuk/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
 https://canli.tgrteu.com/tgrteu.m3u8
