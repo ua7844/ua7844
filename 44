@@ -98,7 +98,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8 
 
 #EXTINF:0 tvg-id="CNN.tr" group-title="Türkiye",CNN TÜRK  
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8 
+https://rpn3.bozztv.com/gin-dvrfl05/gin-cnnturk/index.m3u8 
 
 #EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV 
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8 
