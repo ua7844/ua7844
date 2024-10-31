@@ -22,7 +22,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 https://bozztv.com/dvrfl05/gin-atva2/index.m3u8 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
-https://bozztv.com/36bay4/gt-tv8tv-3/tracks-v1a1/mono.m3u8 
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8 
 
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
