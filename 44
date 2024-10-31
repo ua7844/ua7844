@@ -80,7 +80,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8 
 
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="Türkiye",A Haber HD 
-https://bozztv.com/inim03/live1/ahaber/chunks.m3u8 
+https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8 
 
 #EXTINF:-1 tvg-id="tv100.tr" group-title="Türkiye",TV 100
 https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8 
