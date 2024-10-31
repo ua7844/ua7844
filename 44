@@ -42,9 +42,9 @@ https://bozztv.com/36bay4/gt-tvsekizbucuk/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
 https://canli.tgrteu.com/tgrteu.m3u8
 
-#EXTINF:0 group-title="Türkiye" tvg-id="atv-hd.tr" ,ATV 
+#EXTINF:0 group-title="Türkiye" tvg-id="" ,atv Avrupa
 #EXTGRP:Türkiye
-https://bozztv.com/trn09/gin-atvv/index.m3u8 
+https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
