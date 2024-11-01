@@ -170,7 +170,7 @@ https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ÇAY TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8 
+https://ht-144-76-157-47.socialsmart.tv/caytv/bant1/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8 
