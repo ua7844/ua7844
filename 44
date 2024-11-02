@@ -40,7 +40,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://rpn3.bozztv.com/gin-dvrfl05/gin-sekizbucuk/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
-https://canli.tgrteu.com/tgrteu.m3u8
+https://rpn3.bozztv.com/gin-dvrfl05/gin-tgrteu/index.m3u8
 
 #EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="atv.tr" ,atv 
 #EXTGRP:Türkiye
