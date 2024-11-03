@@ -499,3 +499,6 @@ https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="beINSportsHaber.tr" group-title="TEST",beIN Sports Haber 
 https://rpn3.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+
+#EXTINF:0 tvg-id="beINSports1.tr" group-title="TEST",beIN Sports 1 
+https://t6co.cimcilerere38x.workers.dev/yayinstar.m3u8
