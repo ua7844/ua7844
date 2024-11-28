@@ -482,14 +482,11 @@ https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
 #EXTINF:0 tvg-id="" group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 https://oeins.de/live/studio.m3u8
 
-#EXTINF:0, atv Avrupa 
-https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
-
 #EXTINF:0 tvg-id="" group-title="TEST",TRT Spor 
 https://rpn3.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" group-title="TEST",TRT Spor YILDIZ 
-https://rpn3.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+https://rpn3.bozztv.com/gin-dvrfl05/gin-trtspor2/index.m3u8
 
 #EXTINF:0 tvg-id="" group-title="TEST",Eurosport 
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
