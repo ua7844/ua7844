@@ -167,7 +167,7 @@ https://rpn3.bozztv.com/inim03/live1/aspor/chunks.m3u8
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ALTAS TV
-http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8 
+https://edge1.socialsmart.tv/altastv/bant1/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ÇAY TV
 https://ht-144-76-157-47.socialsmart.tv/caytv/bant1/chunks.m3u8 
