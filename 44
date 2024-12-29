@@ -9,7 +9,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Türkiye",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
-#EXTINF:0 tvg-country="TR" tvg-id="TRT2.tr" group-title="Türkiye",TRT 2 
+#EXTINF:0 tvg-country="TR" tvg-id="TRT2.tr" group-title="Türkiye",TRT 2 HD 
 https://rpn3.bozztv.com/gin-36bay3/gt-trt2/index.m3u8 
 
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
@@ -145,7 +145,7 @@ http://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Türkiye",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8 
 
-#EXTINF:0 tvg-id="HalkTV.tr" group-title="Türkiye",Halk TV
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Türkiye",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8 
 
 #EXTINF:0 tvg-id="szc.tr" group-title="Türkiye",SZC
