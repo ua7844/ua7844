@@ -419,8 +419,8 @@ http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Almanya",noa4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 
-#EXTINF:0 tvg-id="BloombergTV.us" group-title="Almanya",Bloomberg TV Europe 4K
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="BloombergTV.us" group-title="Almanya",Bloomberg TV Europe 
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:0 tvg-id="MDRSachsen.de" group-title="Almanya",MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
