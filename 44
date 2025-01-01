@@ -408,7 +408,7 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 
 #EXTINF:0 tvg-id="One.de" group-title="Almanya",ONE
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 
 #EXTINF:0 tvg-id="Kika.de" group-title="Almanya",KiKa 
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
