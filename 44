@@ -47,7 +47,7 @@ https://rpn3.bozztv.com/gin-dvrfl05/gin-tgrteu/index.m3u8
 https://rpn3.bozztv.com/gin-trn09/gin-atvv/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8  
 
 #EXTINF:0 tvg-id="star.tr" group-title="Türkiye" ,Star TV 
 https://dogus-live.daioncdn.net/startv/startv.m3u8 
