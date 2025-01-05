@@ -47,7 +47,7 @@ https://rpn3.bozztv.com/gin-dvrfl05/gin-tgrteu/index.m3u8
 https://rpn3.bozztv.com/gin-trn09/gin-atvv/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
 
 #EXTINF:0 tvg-id="star.tr" group-title="Türkiye" ,Star TV 
 https://dogus-live.daioncdn.net/startv/startv.m3u8 
@@ -413,7 +413,7 @@ https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:0 tvg-id="Kika.de" group-title="Almanya",KiKa 
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Almanya",noa4 Hamburg++++
+#EXTINF:0 tvg-id="ext" group-title="Almanya",noa4 Hamburg 
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Almanya",noa4 Norderstedt
