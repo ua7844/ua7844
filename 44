@@ -357,7 +357,7 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Rizetürk 
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8 
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sat 7 Türk 
 http://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8 
