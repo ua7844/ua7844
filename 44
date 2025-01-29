@@ -163,9 +163,6 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="ASpor.tr" group-title="Türkiye",a Spor  
 https://rpn3.bozztv.com/inim03/live1/aspor/chunks.m3u8 
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",Alanya Posta TV
-https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8 
-
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ALTAS TV
 https://edge1.socialsmart.tv/altastv/bant1/chunks.m3u8 
 
@@ -175,14 +172,8 @@ https://edge.socialsmart.tv/caytv/bant1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8 
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",ERT Şah TV Erzincan
-http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8 
-
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Erzurum Web TV
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8 
-
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",Fil TV 
-http://live.filbox.com.tr/filtv/index.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Fortuna TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
@@ -196,9 +187,6 @@ http://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",IBB TV
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8 
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kaçkar TV 
-https://kackartv.ozelip.com:3898/hybrid/play.m3u8 
-
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Radyo Kulüp
 http://win1.yayin.com.tr/radyokulup/radyokulup/media.m3u8 
 
@@ -206,13 +194,10 @@ http://win1.yayin.com.tr/radyokulup/radyokulup/media.m3u8
 http://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TV 52
-http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8 
-
-#EXTINF:0 tvg-id="ext" group-title="Türkiye",TV EM
-http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1430509571.m3u8 
+https://edge.socialsmart.tv/tv52/bant1/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",TV 41 
-http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8 
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Love Nature 4K 
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8 
@@ -223,11 +208,8 @@ http://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Anadolu Net TV 
 http://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8 
 
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Angara TV
-https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist.m3u8 
-
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", As Tv 
-http://live.artidijitalmedya.com/artidijital_astv/astv1/chunks.m3u8 
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Bir TV 
 http://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8 
@@ -240,13 +222,7 @@ https://camiatv-live.daioncdn.net/camiatv/camiatv.m3u8
 
 #EXTINF:0 tvg-id="cartoonnetwork.tr" group-title="Türkiye", Can TV 
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8 
-
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Cartoon Network 
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8 
-
-#EXTINF:0 tvg-id="cartoonito.tr" group-title="Türkiye", Cartoonnito 
-https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/chunklist.m3u8 
-
+ 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Cine 1 
 http://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8 
 
@@ -266,7 +242,7 @@ http://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
 https://dost.stream.emsal.im/tv/live.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", EkolTV 
-http://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8 
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Es TV 
 http://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8 
@@ -274,14 +250,8 @@ http://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", ETV 
 http://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8 
 
-#EXTINF:0 group-title="Türkiye" tvg-id="fortuna.tr" ,FTV 
-https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8 
-
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", GRT 
 http://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8 
-
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Güney TV 
-https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Hunat TV 
 http://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8 
@@ -304,9 +274,6 @@ http://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 58 
 http://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8 
-
-#EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal 68 
-http://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Kanal Fırat 
 http://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8 
