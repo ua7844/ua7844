@@ -212,7 +212,7 @@ http://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Bir TV 
-http://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8 
+https://edge.socialsmart.tv/birtv/bant1/playlist.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",BRTV 
 http://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8 
