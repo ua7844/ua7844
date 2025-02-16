@@ -1,6 +1,5 @@
 #EXTM3U 
 
-#EXTINF:0,http://epg.geniptv.com/epg/epg.xml.gz
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
