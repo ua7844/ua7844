@@ -368,7 +368,7 @@ http://rpn3.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 yedek 
 https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="https://turkcanli.tv/api/v4/epg/ertv?grouping=0&epg_from=-1&epg_limit=4" group-title="Türkiye",ER TV yedek
+#EXTINF:0 tvg-id="ertv.tr" group-title="Türkiye",ER TV yedek
 http://live.artidijitalmedya.com/artidijital_ertv/ertv/chunks.m3u8
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
