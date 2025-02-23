@@ -371,8 +371,8 @@ https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="er.tr" group-title="Türkiye",ER TV yedek
 http://live.artidijitalmedya.com/artidijital_ertv/ertv/chunks.m3u8
 
-#EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste 
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:0 tvg-id="ARD-alpha.de" group-title="Almanya",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
