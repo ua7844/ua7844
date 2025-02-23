@@ -453,7 +453,7 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Almanya" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
-https://oeins.de/live/studio.m3u8
+rtmp://streaming.orgatech.de/o1/oeins
 
 #EXTINF:0 tvg-id="" group-title="TEST",TRT Spor 
 https://rpn3.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
