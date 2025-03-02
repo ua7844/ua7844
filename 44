@@ -27,8 +27,8 @@ https://rpn3.bozztv.com/gin-36bay4/gt-tv8tv-3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="TR" tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
 
-#EXTINF:0 tvg-id="TRTKurdi.tr" group-title="Türkiye",TRT KURDI
-https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8 
+#EXTINF:0 tvg-id="" group-title="Türkiye",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid 
 
 #EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Türkiye",TRT MÜZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8 
