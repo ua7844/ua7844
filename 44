@@ -44,7 +44,7 @@ https://rpn3.bozztv.com/gin-dvrfl05/gin-tgrteu/index.m3u8
 
 #EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="atv.tr" ,atv 
 #EXTGRP:Türkiye
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Euro D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
