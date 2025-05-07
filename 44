@@ -110,7 +110,7 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8 
 
 #EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="tele1.tr" ,Tele1
-https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8 
+https://rpn3.bozztv.com/inim03/live1/tele1/playlist.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Haberglobal  
 http://stream.tvcdn.net/haber/haber-global.m3u8 
