@@ -98,7 +98,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8 
 
 #EXTINF:0 tvg-id="CNN.tr" group-title="Türkiye",CNN TÜRK  
-https://rpn3.bozztv.com/gin-dvrfl05/gin-cnnturk/index.m3u8 
+https://rpn3.bozztv.com/inim03/live1/cnnturk/playlist.m3u8 
 
 #EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV 
 https://rpn3.bozztv.com/gin-dvrfl05/gin-ntvtv/index.m3u8 
