@@ -369,7 +369,7 @@ http://rpn3.bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 http://rpn3.bozztv.com/.m3u8 
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 yedek 
-https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/tracks-v1a1/mono.m3u8
+https://rpn3.bozztv.com/inim03/live1/trt1eu/playlist.m3u8
 
 #EXTINF:0 tvg-id="er.tr" group-title="Türkiye",ER TV yedek
 http://live.artidijitalmedya.com/artidijital_ertv/ertv/chunks.m3u8
