@@ -37,7 +37,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
  https://tv-trtturk.medya.trt.com.tr/master_720.m3u8 
 
 #EXTINF:0 tvg-id="tv85.tr" group-title="Türkiye", TV 8,5  
-https://rpn3.bozztv.com/gin-dvrfl05/gin-sekizbucuk/index.m3u8 
+https://live20.bozztv.com/gin-dvrfl05/gin-sekizbucuk/index.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
 https://rpn3.bozztv.com/inim03/live1/tgrteu/playlist.m3u8
@@ -471,7 +471,7 @@ https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="beINSportsHaber.tr" group-title="TEST",beIN Sports Haber 
-https://rpn3.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+https://live20.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 
 #EXTINF:0 tvg-id="beINSports1.tr" group-title="TEST",beIN Sports 1 
 https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
