@@ -320,6 +320,9 @@ http://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Nickelodeon 
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", NTV Spor 
+http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Olay Türk TV 
 http://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8 
  
