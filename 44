@@ -317,6 +317,9 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mercan TV 
 http://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8 
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Nickelodeon 
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Olay Türk TV 
 http://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8 
  
