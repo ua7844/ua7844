@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://185.234.111.229:8000/play/a00c
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 http://185.234.111.229:8000/play/a00f 
