@@ -1,0 +1,16 @@
+#EXTM3U 
+
+#EXTINF:0, Lanetli cüce 
+https://srv11.cdnimages1688.sbs/hls/leprechaun-1-1993-bluray-trdualmp4-ejkLhcofAQF.mp4/txt/master.m3u8
+
+#EXTINF:0, Lanetli cüce 2 
+https://hls11.playmix.uno/hls/leprechaun-2-1994-bluray-trdualmp4-ae6qRsLhUDw.mp4/master.m3u8
+
+#EXTINF:0, Lanetli cüce 3 
+https://hls13.playmix.uno/hls/leprechaun-3-1995-bluray-trdualmp4-OQ0HyvShlnX.mp4/master.m3u8
+
+#EXTINF:0, Lanetli cüce 4 
+https://hls13.playmix.uno/hls/leprechaun-4-1997-bluray-trdualmp4-aBcIfnIv57R.mp4/master.m3u8
+
+#EXTINF:0, Lanetli cüce 5 
+https://hls13.playmix.uno/hls/leprechaun-5-inthehood-2000-bluray-trdualmp4-bF0JHpEYmVq.mp4/master.m3u8
