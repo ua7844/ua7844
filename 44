@@ -363,7 +363,7 @@ http://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
 http://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Ulusal Kanal 
-https://rpn3.bozztv.com/dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8 
+https://live20.bozztv.com/dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Urfafanatik TV 
 http://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8 
