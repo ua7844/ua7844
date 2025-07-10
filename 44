@@ -36,8 +36,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="TRTturk.tr" group-title="Türkiye",TRT TÜRK
  https://tv-trtturk.medya.trt.com.tr/master_720.m3u8 
 
-#EXTINF:0 tvg-id="tv85.tr" group-title="Türkiye", TV 8,5  
-https://live20.bozztv.com/gin-dvrfl05/gin-sekizbucuk/index.m3u8 
+#EXTINF:0 tvg-id="tv85.tr" group-title="Türkiye", TV 8,5   
+https://live20.bozztv.com/dvrfl05/gin-sekizbucuk/index.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
 https://rpn3.bozztv.com/inim03/live1/tgrteu/playlist.m3u8
