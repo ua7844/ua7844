@@ -338,6 +338,16 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sat 7 Türk 
 http://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8 
 
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Sinema Türk 1 
+https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Sinema Türk 2 
+https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Türkiye", Sinema Türk 3 
+https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
+
+group-title="Türkiye", Sinema Türk 1 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sun RTV 
 http://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8 
 
