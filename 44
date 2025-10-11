@@ -379,7 +379,7 @@ https://live20.bozztv.com/dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8
 http://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", VAV TV 
-http://185.234.111.229:8000/play/a01n
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 1 
 http://rpn3.bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8 
