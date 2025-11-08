@@ -19,7 +19,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8 
 
 #EXTINF:0 tvg-id="a2.tr" group-title="Türkiye",a2 
-https://rpn3.bozztv.com/inim03/live1/atva2/chunks.m3u8 
+http://89.187.191.41/A2-HD-TR/video.m3u8 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
 https://rpn3.bozztv.com/inim03/live1/tv8tv/chunks.m3u8 
