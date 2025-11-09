@@ -104,7 +104,7 @@ https://rpn3.bozztv.com/inim03/live1/cnnturk/playlist.m3u8
 https://rpn3.bozztv.com/inim03/live1/ntvtv/playlist.m3u8 
 
 #EXTINF:0 tvg-id="BloombergHT.tr" group-title="Türkiye",Bloomberg HT
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
 
 #EXTINF:0 tvg-id="HABERTURK.tr" group-title="Türkiye",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8 
