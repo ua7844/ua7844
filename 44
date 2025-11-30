@@ -121,7 +121,7 @@ http://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 #EXTINF:0 tvg-id="akit.tr" group-title="Türkiye",akit TV 
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8 
 
-#EXTINF:0 tvg-id="DMAX.tr" group-title="Türkiye",DMAX 
+#EXTINF:0 tvg-id="DMAX HD.tr" group-title="Türkiye",DMAX 
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Sports TV
