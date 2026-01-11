@@ -149,7 +149,7 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8 
 
 #EXTINF:0 tvg-id="szc.tr" group-title="Türkiye",SZC 
-https://www.youtube.com/live/ztmY_cCtUl0?si=QuKHT5HOvLfv-abI
+http://trn09.bozztv.com/gin-sozcutv/index.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-id="tlc.tr" group-title="Türkiye",TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8 
