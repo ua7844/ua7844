@@ -112,7 +112,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 #EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="tele1.tr" ,Tele 1 
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye",Haberglobal  
+#EXTINF:0 tvg-id="HABERGLOBAL.tr" group-title="Türkiye",Haberglobal  
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",HABER 61 TV 
