@@ -112,7 +112,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3
 #EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="tele1.tr" ,Tele 1 
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
-#EXTINF:0 tvg-id="HABERGLOBAL.tr" group-title="Türkiye",HABER GLOBAL 
+#EXTINF:0 tvg-id="HABERGLOBAL.tr" group-title="Türkiye", HABER GLOBAL 
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",HABER 61 TV 
@@ -133,7 +133,7 @@ http://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:0 tvg-id="TVNet.tr" group-title="Türkiye",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8 
 
-#EXTINF:0 tvg-id="ekoturk.tr" group-title="Türkiye",Ekotürk TV
+#EXTINF:0 tvg-id="ekoturk.tr" group-title="Türkiye",EKOTÜRK TV
 http://185.234.111.229:8000/play/a00w 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Vuslat TV
