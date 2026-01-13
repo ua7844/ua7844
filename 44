@@ -36,7 +36,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTturk.tr" group-title="Türkiye",TRT TÜRK
  https://tv-trtturk.medya.trt.com.tr/master.m3u8 
 
-#EXTINF:0 tvg-id="tv8bucuk.tr" group-title="Türkiye",TV 8,5   
+#EXTINF:0 tvg-id="TV8,5.tr" group-title="Türkiye",TV 8,5   
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
@@ -76,7 +76,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
 
-#EXTINF:-1 tvg-id="flash.tr" group-title="Türkiye",FLASH TV 
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" group-title="Türkiye",Flash Haber TV 
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8 
 
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="Türkiye",A Haber HD 
