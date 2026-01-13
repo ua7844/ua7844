@@ -67,10 +67,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #EXTINF:0 tvg-id="NOWTV.tr" group-title="Türkiye",NOW TV  
 https://rpn3.bozztv.com/trn09/gin-turkfoxtv/index.m3u8
 
-#EXTINF:0 tvg-id="TV2.tr" group-title="Türkiye",teve 2 
+#EXTINF:0 tvg-id="Teve2.tr" group-title="Türkiye",teve2  
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Türkiye",Bengütürk 
+#EXTINF:0 tvg-id="BengütürkTV.tr" group-title="Türkiye",Bengütürk TV
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8 
 
 #EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV
