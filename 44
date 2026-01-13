@@ -109,7 +109,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
 #EXTINF:0 tvg-id="HABERTURK.tr" group-title="Türkiye",Habertürk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8 
 
-#EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="tele1.tr" ,Tele 1 
+#EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="TELE1.tr" ,TELE 1 
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
 #EXTINF:0 tvg-id="HABERGLOBAL.tr" group-title="Türkiye", HABER GLOBAL 
@@ -133,7 +133,7 @@ http://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:0 tvg-id="TVNet.tr" group-title="Türkiye",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8 
 
-#EXTINF:0 tvg-id="ekoturk.tr" group-title="Türkiye",EKOTÜRK TV
+#EXTINF:0 tvg-id="EKOTÜRKTV.tr" group-title="Türkiye", EKOTÜRK TV 
 http://185.234.111.229:8000/play/a00w 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Vuslat TV
