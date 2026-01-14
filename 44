@@ -142,7 +142,7 @@ http://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ER TV 
 http://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8 
 
-#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Türkiye",DIYANET TV
+#EXTINF:0 tvg-id="DiyanetTV.tr" group-title="Türkiye",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8 
 
 #EXTINF:0 tvg-id="HalkTV.tr" group-title="Türkiye",HALK TV
