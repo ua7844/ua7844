@@ -347,7 +347,6 @@ https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sinema Türk 3 
 https://tgn.bozztv.com/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
 
-group-title="Türkiye", Sinema Türk 1 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sun RTV 
 http://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8 
 
@@ -360,11 +359,17 @@ http://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", TON Tv 
 http://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8 
 
+#EXTINF:0 tvg-id="" group-title="Türkiye", Trabzon Büyükşehir Belediyesi 
+https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Trakya Türk TV 
 http://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TRT Diyanet Çocuk 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8 
+
+#EXTINF:0 tvg-id="" group-title="Türkiye", TRT Genç 
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", TV 41 
 http://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8 
