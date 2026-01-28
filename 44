@@ -152,7 +152,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 http://trn09.bozztv.com/gin-sozcutv/index.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-id="tlc.tr" group-title="Türkiye",TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8 
+https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/volotv.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Lalegül Tv
 https://lbl.netmedya.net/hls/lalegultv.m3u8 
