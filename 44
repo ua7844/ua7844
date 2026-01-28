@@ -151,7 +151,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-id="szc.tr" group-title="Türkiye",SZC 
 http://trn09.bozztv.com/gin-sozcutv/index.m3u8
 
-#EXTINF:0 tvg-id="tlc.tr" group-title="Türkiye",TLC 
+#EXTINF:0 tvg-id="tlc.tr" group-title="Türkiye",TLC  
 https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/volotv.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",Lalegül Tv
