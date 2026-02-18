@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
