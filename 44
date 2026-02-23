@@ -16,7 +16,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8 
 
 #EXTINF:0 tvg-id="Kanal7.tr" group-title="Türkiye",Kanal 7 avrupa 
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8 
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_720p.m3u8 
 
 #EXTINF:0 tvg-id="a2.tr" group-title="Türkiye",a2 
 http://89.187.191.41/A2-HD-TR/video.m3u8 
