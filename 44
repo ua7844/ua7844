@@ -15,7 +15,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="Türkiye",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8 
 
-#EXTINF:0 tvg-id="Kanal7.tr" group-title="Türkiye",Kanal 7 avrupa 
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Türkiye",Kanal 7 
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_720p.m3u8 
 
 #EXTINF:0 tvg-id="a2.tr" group-title="Türkiye",a2 
