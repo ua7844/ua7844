@@ -22,7 +22,7 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_720p.m3u8
 http://89.187.191.41/A2-HD-TR/video.m3u8 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8 
+http://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
@@ -59,7 +59,7 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8 
 
 #EXTINF:0 tvg-id="showturk.tr" group-title="Türkiye",Show Türk
-https://162.212.179.33/gin-dvrfl05/gin-showtvturk/index.m3u8
+http://162.212.179.33/gin-dvrfl05/gin-showtvturk/index.m3u8
 
 #EXTINF:0 tvg-id="showmax.tr" group-title="Türkiye", ShowMAX 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
@@ -97,7 +97,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8 
 
 #EXTINF:0 tvg-id="CNNTURK.tr" group-title="Türkiye",CNN TÜRK  
-https://162.212.179.33/gin-dvrfl05/gin-cnn-turk/index.m3u8
+http://162.212.179.33/gin-dvrfl05/gin-cnn-turk/index.m3u8
+
 #EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV 
 https://rpn3.bozztv.com/inim03/live1/ntvtv/playlist.m3u8 
 
