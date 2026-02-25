@@ -59,7 +59,7 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8 
 
 #EXTINF:0 tvg-id="showturk.tr" group-title="Türkiye",Show Türk
-https://rpn3.bozztv.com/inim03/live1/showtvturk/chunks.m3u8
+https://162.212.179.33/gin-dvrfl05/gin-showtvturk/index.m3u8
 
 #EXTINF:0 tvg-id="showmax.tr" group-title="Türkiye", ShowMAX 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
@@ -76,8 +76,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
 
-#EXTINF:-1 tvg-id="FlashHaberTV.tr" group-title="Türkiye",Flash Haber TV 
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8 
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" group-title="Türkiye",Flash Haaber.m3u8 
 
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="Türkiye",A Haber HD 
 https://rpn3.bozztv.com/inim03/live1/ahaber/playlist.m3u8 
@@ -98,8 +97,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8 
 
 #EXTINF:0 tvg-id="CNNTURK.tr" group-title="Türkiye",CNN TÜRK  
-https://rpn3.bozztv.com/inim03/live1/cnnturk/playlist.m3u8 
-
+https://162.212.179.33/gin-dvrfl05/gin-cnn-turk/index.m3u8
 #EXTINF:0 tvg-id="NTV.tr" group-title="Türkiye",NTV 
 https://rpn3.bozztv.com/inim03/live1/ntvtv/playlist.m3u8 
 
