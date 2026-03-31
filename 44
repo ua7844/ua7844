@@ -493,3 +493,5 @@ https://live20.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:0 tvg-id="beINSports1.tr" group-title="TEST",beIN Sports 1 
 https://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 
+#EXTINF:0 tvg-id="TV8.tr" group-title="TEST",TV 8 TEST
+https://tgn.bozztv.com/gin-36bay4/gt-tv8tv-3/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1530190902&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDI2IDY6MDk6MDggUE0maGFzaF92YWx1ZT02Yy9WNHdOdm5mZnNSQUNRb01hU0h3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
