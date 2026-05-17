@@ -19,10 +19,10 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 http://rpn3.bozztv.com/inim03/live1/kanal7/chunks.m3u8 
 
 #EXTINF:0 tvg-id="a2.tr" group-title="Türkiye",a2 
-http://89.187.191.41/A2-HD-TR/video.m3u8 
+http://rpn3.bozztv.com/inim03/live1/atva2/chunks.m3u8 
 
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
-http://89.187.191.41/TV8-HD-TR/video.m3u8 
+http://rpn3.bozztv.com/inim03/live1/tv8tv/chunks.m3u8 
 
 #EXTINF:0 tvg-country="TR" tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
