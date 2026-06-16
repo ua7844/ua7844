@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/turksatkablo.com.tr/turksatkablo.com.tr.channels.xml"
 
-#EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
+#EXTINF:1 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
 http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/2283/index.m3u8
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
