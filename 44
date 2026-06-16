@@ -49,8 +49,8 @@ https://rpn3.bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye", Euro D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
 
-#EXTINF:0 tvg-id="start.tr" group-title="Türkiye" , Star 
-https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718 
+#EXTINF:0 tvg-id="" group-title="Türkiye" , Star TV 
+http://rpn3.bozztv.com/inim03/live1/star-tv/chunks.m3u8 
 
 #EXTINF:0 tvg-id="kanalavrupa.de" group-title="Türkiye", Kanal Avrupa 
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8 
