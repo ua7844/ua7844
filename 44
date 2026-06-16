@@ -24,7 +24,7 @@ http://rpn3.bozztv.com/inim03/live1/atva2/chunks.m3u8
 #EXTINF:0 tvg-id="tv8.tr" group-title="Türkiye",TV 8 
 http://rpn3.bozztv.com/inim03/live1/tv8tv/chunks.m3u8 
 
-#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT Çocuk
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Tabii TV
@@ -49,7 +49,7 @@ https://rpn3.bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye", Euro D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
 
-#EXTINF:0 tvg-id="star.tr" group-title="Türkiye" ,Star 
+#EXTINF:0 tvg-id="start.tr" group-title="Türkiye" , Star 
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718 
 
 #EXTINF:0 tvg-id="kanalavrupa.de" group-title="Türkiye", Kanal Avrupa 
