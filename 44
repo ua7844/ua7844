@@ -319,10 +319,10 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Mercan TV 
 http://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8 
 
-#EXTINF:0 tvg-id="NatGeoHD.tr" group-title="Türkiye", National Geographic 
+#EXTINF:0 tvg-id="" group-title="Türkiye",National Geographic 
 http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6866/index.m3u8
 
-#EXTINF:0 tvg-id="NatGeoHD.tr" group-title="Türkiye", National Geographic HD 
+#EXTINF:0 tvg-id="" group-title="Türkiye",National Geographic HD 
 http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6867/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Olay Türk TV 
