@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
 https://proxy.eylog.co.uk/89.187.191.41/TRT-1-HD-TR/index.m3u8
