@@ -76,7 +76,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" group-title="Türkiye",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
 
-#EXTINF:-1 tvg-id="FlashHaberTV.tr" group-title="Türkiye",Flash Haaber.m3u8 
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" group-title="Türkiye",Flash Haber 
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="Türkiye",A Haber HD 
