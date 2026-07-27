@@ -405,7 +405,7 @@ http://rpn3.bozztv.com/trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6883/index.m3u8
 
 #EXTINF:0 tvg-id="er.tr" group-title="Türkiye",ER TV yedek
-http://live.artidijitalmedya.com/artidijital_ertv/ertv/chunks.m3u8
+ttps://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste 
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
