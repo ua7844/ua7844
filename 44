@@ -50,7 +50,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8  
 
 #EXTINF:0 tvg-id="" group-title="Türkiye" , Star TV 
-http://rpn3.bozztv.com/inim03/live1/star-tv/chunks.m3u8 
+https://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8 
 
 #EXTINF:0 tvg-id="kanalavrupa.de" group-title="Türkiye", Kanal Avrupa 
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8 
