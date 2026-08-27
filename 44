@@ -453,7 +453,7 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Almanya",Deutsche Welle 
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:0 tvg-id="AutoMotorSport.de" group-title="Almanya",Auto Motor Sport
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
