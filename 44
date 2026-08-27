@@ -474,7 +474,7 @@ https://hse24extra.akamaized.net/hls/live/2006596-b/hse24extra/master_1080p25.m3
 https://hse24trend.akamaized.net/hls/live/2006597-b/hse24trend/master_576_2p25.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Almanya",Tide TV HH
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/chunklist_w350625857_b1600000.m3u8
+https://h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ZDF.de" group-title="Almanya",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
