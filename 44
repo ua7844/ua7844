@@ -149,7 +149,7 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8 
 
 #EXTINF:0 tvg-id="szc.tr" group-title="Türkiye",SZC 
-http://trn09.bozztv.com/gin-sozcutv/index.m3u8
+http://185.234.111.229:8000/play/a00y
 
 #EXTINF:0 tvg-id="tlc.tr" group-title="Türkiye",TLC  
 https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1814475550.m3u8
