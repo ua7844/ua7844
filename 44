@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-https://proxy.eylog.co.uk/89.187.191.41/TRT-1-HD-TR/index.m3u8
+http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6883/index.m3u8
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6852/index.m3u8 
@@ -400,12 +400,6 @@ http://rpn3.bozztv.com/trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 2 
 http://rpn3.bozztv.com/trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8 
-
-#EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 yedek 
-http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6883/index.m3u8
-
-#EXTINF:0 tvg-id="er.tr" group-title="Türkiye",ER TV yedek
-ttps://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste 
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
