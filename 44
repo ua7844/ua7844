@@ -499,3 +499,6 @@ http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6817/index.m3u8
 
 #EXTINF:0 tvg-id="" group-title="TEST",TRT 1 TEST
 https://andro.1286503.xyz/checklist/androstreamlivetrt1.m3u8
+
+#EXTINF:0 tvg-id="" group-title="TEST",Test channel 
+https://raw.githubusercontent.com/ua7844/ua7844/refs/heads/main/Test123.m3u8
