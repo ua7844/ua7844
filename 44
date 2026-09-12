@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6883/index.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8?app=web
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6852/index.m3u8 
