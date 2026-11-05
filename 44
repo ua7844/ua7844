@@ -42,7 +42,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
 https://rpn3.bozztv.com/inim03/live1/tgrteu/playlist.m3u8
 
-#EXTINF:0 tvg-country="TR" group-title="Türkiye" tvg-id="atv.tr" ,atv 
+#EXTINF:0 tvg-id="atv.tr" group-title="Türkiye",atv 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", Euro D
