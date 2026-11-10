@@ -58,7 +58,7 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8 
 
 #EXTINF:0 tvg-id="showturk.tr" group-title="Türkiye",Show Türk
-http://162.212.179.33/gin-dvrfl05/gin-showtvturk/index.m3u8
+https://tulixcdn.com/dvrfl05/gin-showtvturk/index.m3u8
 
 #EXTINF:0 tvg-id="showMax.tr" group-title="Türkiye", Show MAX 
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
@@ -347,13 +347,13 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 http://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sinema Türk 1 
-https://rpn3.bozztv.com/trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
+https://tulixcdn.com/trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sinema Türk 2 
-https://rpn3.bozztv.com/trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+https://tulixcdn.com/trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sinema Türk 3 
-https://rpn3.bozztv.com/trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
+https://tulixcdn.com/trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Sun RTV 
 http://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8 
@@ -386,7 +386,7 @@ http://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 http://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8 
 
 #EXTINF:0 tvg-id="ULUSALTV.tr" group-title="Türkiye", ULUSAL TV 
-https://live20.bozztv.com/dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8 
+https://tulixcdn.com/dvrfl05/gin-ulusalkanal/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Urfafanatik TV 
 http://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8 
@@ -395,10 +395,10 @@ http://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 1 
-http://rpn3.bozztv.com/trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8 
+https://tulixcdn.com/trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye", Yeşilçam TV 2 
-http://rpn3.bozztv.com/trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8 
+https://tulixcdn.com/trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="ARD.de" group-title="Almanya",Das Erste 
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
@@ -485,10 +485,10 @@ https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
 http://cdn.oeins.de/hd1080/index.m3u8
 
 #EXTINF:0 tvg-id="" group-title="TEST",TRT Spor 
-https://rpn3.bozztv.com/inim03/live1/trtspor/chunks.m3u8
+https://tulixcdn.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" group-title="TEST",TRT Spor YILDIZ 
-https://rpn3.bozztv.com/inim03/live1/trtspor2/chunks.m3u8
+https://tulixcdn.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="beINSportsHaber.tr" group-title="TEST",beIN Sports Haber 
 https://tulixcdn.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
