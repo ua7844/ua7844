@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-https://tulixcdn.com/dvrfl05/gin-trt1live/tracks-v1a1/mono.m3u8
+http://tulixcdn.com/dvrfl05/gin-trt1live/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 https://tulixcdn.com/dvrfl05/gin-trtbelgesel/tracks-v1a1/mono.m3u8 
