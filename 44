@@ -491,7 +491,7 @@ https://rpn3.bozztv.com/inim03/live1/trtspor/chunks.m3u8
 https://rpn3.bozztv.com/inim03/live1/trtspor2/chunks.m3u8
 
 #EXTINF:0 tvg-id="beINSportsHaber.tr" group-title="TEST",beIN Sports Haber 
-https://live20.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+https://tulixcdn.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="beINSports1.tr" group-title="TEST",beIN Sports 1 
 http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6817/index.m3u8
