@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
 
 #EXTINF:0 tvg-id="TRT1.tr" group-title="Türkiye",TRT 1 
-http://tulixcdn.com/dvrfl05/gin-trt1live/tracks-v1a1/mono.m3u8
+https://tulixcdn.com/dvrfl05/gin-trt1live/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Türkiye",TRT Belgesel
 https://tulixcdn.com/dvrfl05/gin-trtbelgesel/tracks-v1a1/mono.m3u8 
@@ -25,7 +25,7 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8 
 
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Türkiye",TRT COCUK
- https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8 
+ https://tulixcdn.com/dvrfl05/gin-trtcocuk/tracks-v1a1/mono.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid 
@@ -40,7 +40,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8 
 
 #EXTINF:0 tvg-id="" group-title="Türkiye", TGRT EU  
-http://tulixcdn.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8
+https://tulixcdn.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="atv.tr" group-title="Türkiye",atv 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8 
