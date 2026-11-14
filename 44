@@ -160,7 +160,7 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 https://hls.pmchd.live/hls/stream.m3u8 
 
 #EXTINF:0 tvg-id="ASpor.tr" group-title="Türkiye",a Spor  
-https://rpn3.bozztv.com/inim03/live1/aspor/chunks.m3u8 
+https://tulixcdn.com/dvrfl05/gin-asportv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Türkiye",ALTAS TV
 https://edge1.socialsmart.tv/altastv/bant1/chunks.m3u8 
